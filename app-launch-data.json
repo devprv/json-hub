@@ -1,6 +1,6 @@
 {
     "isNewAppAvail": false,
-    "enableRewardAds": true,
+    "enableRewardAds": false,
     "appID": "com.devs.totalvideos",
     "message": "An alternative app with the same features are avaialble to continue use this app features Install Now our new app."
 }
