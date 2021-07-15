@@ -1,6 +1,6 @@
 {
-    "isNewAppAvail": false,
+    "isNewAppAvail": true,
     "enableRewardAds": true,
-    "appID": "com.devs.totalvideos",
-    "message": "An alternative app with the same features are avaialble to continue use this app features Install Now our new app."
+    "appID": "com.devs.productcountryfinder",
+    "message": "Unable to process now due to heavy load. Please try later. Install this new tool to know the country of your products."
 }
