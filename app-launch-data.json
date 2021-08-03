@@ -1,6 +1,6 @@
 {
-    "tvNoMore": true,
-    "isNewAppAvail": true,
+    "tvNoMore": false,
+    "isNewAppAvail": false,
     "enableRewardAds": true,
     "appID": "com.devs.totalvideos",
     "message": "Unable to process now due to server maintenance. Please try later. Click on Install Now to Check for the updates and stay with updated version."
